@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "femail",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    }
+  ]
+}
